@@ -1,0 +1,31 @@
+id: PC3A0EF41
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG5396
+  instance_id: http://purl.bdrc.io/resource/IE1KG5396
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གཞོན་ནུ་ཟླ་མེད་ཀྱི་གཏམ་རྒྱུད།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - xun nu da mei de gu shi
+  author: http://purl.bdrc.io/resource/P343
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    841bab1f66e745c2908a07142a6751d2:
+      title: པོད ༡་གཞོན་ནུ་ཟླ་མེད་ཀྱི་གཏམ་རྒྱུད
+      volume_number: 1
+      base_file: UT1KG5396_I1KG5411_0000.txt
+      reference: http://purl.bdrc.io/resource/VL4B7E67B12EB038DC
+      image_group: I1KG5411
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG5396
+  - http://purl.bdrc.io/resource/MW1KG5396
+  ocr_software: Namsel
+created_at: '2021-12-22T10:49:41.473756'
+last_modified_at: '2021-12-22T10:49:41.473763'
